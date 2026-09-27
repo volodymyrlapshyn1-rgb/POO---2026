@@ -73,7 +73,7 @@ A depuração foi realizada através do VS Code, utilizando:
 - [x] .gitignore exclui builds, caches e ficheiros da IDE.
 - [x] README.md explica como compilar e executar os programas.
 - [x] Repositório no GitHub com commits claros por objetivo.
-- [ ] Screenshot da depuração na pasta docs/ (opcional).
+- [x] Screenshot da depuração na pasta docs/ (opcional).
 
 ## Controlo de versões
 
